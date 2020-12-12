@@ -1,0 +1,12 @@
+body{
+  background-color: grey;
+}
+#me{
+  text-align: center;
+}
+#you{
+  text-align: left;
+}
+#him{
+  text-align: left;
+}
